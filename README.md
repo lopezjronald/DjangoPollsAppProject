@@ -1,1 +1,1 @@
-"# DjangoPollsAppProject" 
+# DjangoPollsAppProject
